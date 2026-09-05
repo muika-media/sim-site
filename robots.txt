@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muika-media.github.io/sim-site/sitemap.xml
